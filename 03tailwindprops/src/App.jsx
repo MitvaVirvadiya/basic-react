@@ -15,7 +15,7 @@ function App() {
   const parv = {
     username: "Parv",
     age: 20,
-    content: "hi my name is Parv, how are you i guess fine? Loop 69",
+    content: "hi my name is Parv, i am a dev?",
   }
 
   return (
