@@ -31,8 +31,8 @@ function App() {
           }}
           >
           <div className="w-full flex">
-              <div className="w-full flex max-w-xl mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
-                <div className="w-48 flex-none relative bg-cover bg-no-repeat bg-center rounded-md" 
+              <div className="w-full flex max-w-lg mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
+                <div className="w-36 flex-none relative bg-cover bg-no-repeat bg-center rounded-md" 
                     style={{
                       backgroundImage: `url('https://images.pexels.com/photos/6771900/pexels-photo-6771900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`
                     }}>
